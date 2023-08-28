@@ -1,2 +1,2 @@
-Machine Learning projects and A.I Projectsn for DataScience
+# Machine Learning projects and A.I Projects for DataScience
 my work
